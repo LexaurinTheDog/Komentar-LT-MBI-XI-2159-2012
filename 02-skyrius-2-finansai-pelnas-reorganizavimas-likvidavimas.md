@@ -332,11 +332,11 @@ Termino suėjimu straipsnio dispozicija išnaudota, tačiau straipsnis formaliai
 
 **Straipsnio tekstas:**
 
-> Mažosios bendrijos, įsteigtos iki 2014 m. liepos 1 d., šio įstatymo 61 straipsnyje nurodytus duomenis apie savo narius Juridinių asmenų dalyvių informacinės sistemos tvarkytojui pateikia iki 2014 m. spalio 1 d.
+> Mažosios bendrijos, įsteigtos iki 2014 m. liepos 1 d., šio įstatymo 6¹ straipsnyje nurodytus duomenis apie savo narius Juridinių asmenų dalyvių informacinės sistemos tvarkytojui pateikia iki 2014 m. spalio 1 d.
 
 *e-TAR redakcinė pastaba:* Straipsnio pakeitimai: Nr. XII-904, 2014-06-03, paskelbta TAR 2014-06-11, i. k. 2014-07407
 
-Straipsnis (įterptas 2013 m. ir pakeistas 2014 m., žr. redakcinę pastabą; e-TAR tekste rodomas kaip „311“) yra pereinamoji nuostata, susijusi su 6¹ straipsniu (tekste nurodytu kaip „61“). Mažosios bendrijos, įsteigtos iki 2014 m. liepos 1 d., turėjo pateikti duomenis apie savo narius Juridinių asmenų dalyvių informacinės sistemos tvarkytojui iki 2014 m. spalio 1 d.
+Straipsnis (įterptas 2013 m. ir pakeistas 2014 m., žr. redakcinę pastabą) yra pereinamoji nuostata, susijusi su 6¹ straipsniu. Mažosios bendrijos, įsteigtos iki 2014 m. liepos 1 d., turėjo pateikti duomenis apie savo narius Juridinių asmenų dalyvių informacinės sistemos tvarkytojui iki 2014 m. spalio 1 d.
 
 Nuostata užtikrino, kad sistemoje būtų duomenys ne tik apie naujai įsteigtas, bet ir apie jau veikusias bendrijas. Terminui suėjus, straipsnis praktiškai išnaudotas; tačiau jis gali turėti reikšmės vertinant, ar bendrija tinkamai vykdė pareigą, ir nustatant, nuo kada informacinėje sistemoje esantys duomenys turi būti laikomi išsamiais. Pareigos subjektas nustatomas pagal 6¹ straipsnio 3 dalį.
 

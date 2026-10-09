@@ -34,7 +34,7 @@ Mažoji bendrija yra ribotos civilinės atsakomybės privatusis juridinis asmuo 
 ## Metodas
 
 - Straipsnių tekstas perkeltas **pažodžiui** iš oficialios e-TAR suvestinės redakcijos, mašininiu būdu, be santrumpų ir praleidimų. Akivaizdūs šaltinio netikslumai palikti nepakeisti (pvz., du 13 straipsnio punktai pažymėti numeriu „15“; 26 straipsnio 9 dalies 1 punkte – „atskaitų rinkinys“; 30 straipsnio 10 dalies 2 punktas, netekęs galios nuo 2022-05-01, paliktas toks, koks yra suvestinėje redakcijoje).
-- e-TAR tekste prarastas viršutinio indekso formatavimas, todėl papildytų straipsnių numeriai šaltinyje rodomi kaip „61“ ir „311“ (taip pat ir nuorodose straipsnių tekste). Komentaro antraštėse jie žymimi 6¹ ir 31¹, o cituojamas tekstas paliktas toks, koks yra šaltinyje.
+- Papildytų straipsnių numeriai su viršutiniu indeksu (6¹ ir 31¹) pateikiami taip, kaip jie užrašyti šaltinyje – tiek antraštėse, tiek nuorodose straipsnių tekste.
 - e-TAR redakcinės pastabos (informacija apie straipsnių, dalių ir punktų pakeitimus, papildymus ir numeracijos pakeitimus) pateikiamos po atitinkamo straipsnio teksto kaip atskiros pastabos su nuoroda į dalį ar punktą, kuriems jos skirtos.
 - Pasirašymo formulė ir pakeitimų sąrašas į komentuojamą tekstą neįtraukti; iš pakeitimų sąrašo paimti tik pagrindiniai duomenys šiame įvade.
 - Komentaras parengtas **tik remiantis vietiniais šaltiniais** (oficialus teisės akto tekstas ir jo metaduomenys), nenaudojant komercinių teisinių duomenų bazių. **Teismų praktika į šią versiją neįtraukta** – ji bus papildyta atskiru etapu, kaip ir kituose autoriaus komentaruose.

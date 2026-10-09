@@ -234,7 +234,7 @@ Straipsnis papildo bendrąjį Juridinių asmenų registro duomenų sąrašą, nu
 
 *e-TAR redakcinė pastaba:* Straipsnio pakeitimai: Nr. XII-904, 2014-06-03, paskelbta TAR 2014-06-11, i. k. 2014-07407
 
-Straipsnis (įstatymas papildytas juo vėliau; e-TAR tekste prarastas viršutinis indeksas, todėl nuorodose rodomas kaip „61“) įtvirtina narių duomenų teikimą Juridinių asmenų dalyvių informacinei sistemai. Kadangi mažoji bendrija neturi akcijų ar akcininkų sąrašų, be šios sistemos informacija apie tai, kas yra bendrijos nariai, nebūtų centralizuotai prieinama. 1 dalis nustato teikiamų duomenų sudėtį: vardas, pavardė, asmens kodas, korespondencijos adresas, narystės pradžios ir pabaigos datos bei įnašo dydis (piniginis) ar vertė (nepiniginis).
+Straipsnis (įstatymas papildytas juo vėliau) įtvirtina narių duomenų teikimą Juridinių asmenų dalyvių informacinei sistemai. Kadangi mažoji bendrija neturi akcijų ar akcininkų sąrašų, be šios sistemos informacija apie tai, kas yra bendrijos nariai, nebūtų centralizuotai prieinama. 1 dalis nustato teikiamų duomenų sudėtį: vardas, pavardė, asmens kodas, korespondencijos adresas, narystės pradžios ir pabaigos datos bei įnašo dydis (piniginis) ar vertė (nepiniginis).
 
 2 dalis nustato 5 dienų terminą – nuo įregistravimo ir nuo kiekvieno duomenų pasikeitimo. Pasikeitimais laikytini, pvz., naujo nario priėmimas (9 straipsnis), nario teisių perleidimas (10 straipsnis), pasitraukimas (11 straipsnis) ar įnašo vertės padidėjimas pagal 10 straipsnio 2 dalį. Narystės pabaigos momentą lemia įstatymas (pvz., 10 straipsnio 2 dalis, 11 straipsnio 2 dalis), todėl terminas skaičiuojamas nuo to momento.
 
